@@ -107,7 +107,11 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=raevillena&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="150"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=raevillena&theme=radical&hide_border=true" alt="GitHub Streak" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=raevillena&theme=radical&hide_border=true" alt="WakaTime Stats" height="150"/>
+</div>
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/streak-stats?user=raevillena&theme=radical&hide_border=true" alt="GitHub Streak" height="150"/>
 </div>
 
 <div align="center">
@@ -124,8 +128,8 @@
 ## 🏆 Achievements & Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=raevillena&theme=radical&hide_border=true" alt="WakaTime Stats" height="150"/>
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=raevillena&repo=umans&theme=radical&hide_border=true" alt="UMANS Repository" height="150"/>
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=raevillena&repo=energymon&theme=radical&hide_border=true" alt="Energymon Repository" height="150"/>
 </div>
 
 ### **Key Performance Indicators**
@@ -139,15 +143,15 @@
 
 ## 💼 Client Testimonials
 
-> *"Rae delivered an exceptional full-stack solution that exceeded our expectations. The system handles 10,000+ concurrent users with zero downtime. Highly recommended!"*
+> *"Raymart delivered an exceptional full-stack solution that exceeded our expectations. The system handles 10,000+ concurrent users with zero downtime. Highly recommended!"*
 > 
 > **— John Smith, CTO at TechCorp**
 
-> *"The IoT monitoring system Rae built has revolutionized our energy management. Real-time insights and predictive analytics have saved us 30% in operational costs."*
+> *"The IoT monitoring system Raymart built has revolutionized our energy management. Real-time insights and predictive analytics have saved us 30% in operational costs."*
 > 
 > **— Sarah Johnson, Operations Director at GreenEnergy**
 
-> *"Professional, reliable, and incredibly skilled. Rae's attention to detail and clean code practices made our project a success from day one."*
+> *"Professional, reliable, and incredibly skilled. Raymart's attention to detail and clean code practices made our project a success from day one."*
 > 
 > **— Mike Chen, Lead Developer at StartupXYZ**
 
@@ -196,11 +200,8 @@
   <a href="mailto:raevillena.dev@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
-  <a href="https://www.linkedin.com/in/raevillena/">
+  <a href="https://www.linkedin.com/in/raymart-villena/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/raevillena">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter"/>
   </a>
   <a href="https://github.com/raevillena">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
