@@ -1,6 +1,5 @@
-# Previous README Content
+<!-- Profile README for raevillena -->
 
-<<<<<<< HEAD
 <div align="center">
   <img src="https://user-images.githubusercontent.com/74038190/213912708-5d4c0c3c-1408-4c7e-bb07-4a8d7b7d6b7b.gif" width="40" alt="Wave emoji"/>
   <h1>Hi, I'm Rae Villena</h1>
@@ -10,7 +9,7 @@
     </a>
   </p>
   <p>
-    <b>Full-Stack Developer | IoT & Cloud Enthusiast | Sgit alable Systems Builder</b>
+    <b>Full-Stack Developer | IoT & Cloud Enthusiast | Scalable Systems Builder</b>
   </p>
   <p>
     <i>Transforming ideas into production-ready applications that scale</i>
@@ -233,6 +232,3 @@
     <img src="https://img.shields.io/badge/Last%20Updated-December%202024-blue?style=for-the-badge" alt="Last Updated"/>
   </p>
 </div>
-=======
-This is the previous content from commit 5ab2f44df32137ed4e87a622fb221e94ac068e76.
->>>>>>> 239bf78c2d1f7254155f950f7cf54f206665c91c
