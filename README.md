@@ -22,7 +22,7 @@
   <img src="https://img.shields.io/github/followers/raevillena?style=for-the-badge&logo=github&label=Followers" alt="GitHub Followers"/>
   <img src="https://komarev.com/ghpvc/?username=raevillena&color=blue&style=for-the-badge" alt="Profile views"/>
   <img src="https://img.shields.io/github/stars/raevillena?style=for-the-badge&logo=github" alt="GitHub Stars"/>
-  <img src="https://img.shields.io/github/commits/raevillena?style=for-the-badge&logo=github" alt="Total Commits"/>
+  <img src="https://img.shields.io/github/commits/raevillena?style=for-the-badge&logo=git&logoColor=white&label=Commits" alt="Total Commits"/>
   <img src="https://visitor-badge.laobi.icu/badge?page_id=raevillena.raevillena" alt="Profile Views"/>
   <img src="https://img.shields.io/badge/Visitors-000000?style=for-the-badge&logo=github&logoColor=white" alt="Visitors"/>
 </div>
