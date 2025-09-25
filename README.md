@@ -221,7 +221,8 @@
 ---
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&center=true&width=500&lines=Building+Scalable+Applications;Creating+IoT+Solutions;Optimizing+Performance;Delivering+Results;Let's+Build+Something+Amazing!+🚀" />
+  <h3>🚀 Building Scalable Applications | Creating IoT Solutions | Optimizing Performance | Delivering Results</h3>
+  <p><i>Let's Build Something Amazing!</i></p>
 </div>
 
 ---
