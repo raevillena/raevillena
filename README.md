@@ -23,7 +23,8 @@
   <img src="https://komarev.com/ghpvc/?username=raevillena&color=blue&style=for-the-badge" alt="Profile views"/>
   <img src="https://img.shields.io/github/stars/raevillena?style=for-the-badge&logo=github" alt="GitHub Stars"/>
   <img src="https://img.shields.io/github/commits/raevillena?style=for-the-badge&logo=github" alt="Total Commits"/>
-  <img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fraevillena&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23FFFFFF&title=Profile+Views&edge_flat=false" alt="Profile Views"/>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=raevillena.raevillena" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/Visitors-000000?style=for-the-badge&logo=github&logoColor=white" alt="Visitors"/>
 </div>
 
 ---
